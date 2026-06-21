@@ -11,7 +11,7 @@
     "update": "node ./build/update-icon-theme.js"
   },
   "engines": {
-    "vscode": "*"
+    "vscode": "^1.0.0"
   },
   "categories": ["Themes"],
   "contributes": {

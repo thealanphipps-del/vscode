@@ -10,7 +10,7 @@
   ],
   "main": "./out/colorizerTestMain",
   "engines": {
-    "vscode": "*"
+    "vscode": "^1.0.0"
   },
   "icon": "media/icon.png",
   "scripts": {
